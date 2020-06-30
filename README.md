@@ -59,3 +59,25 @@ Each point includes a quick description that makes the choice easy for anyone, t
  - use-cases : encrypt and read emails with OpenPGP
  
  Online: https://enigmail.net/index.php/en/ code: https://enigmail.net/index.php/en/download/source-code
+ 
+ ## Video communication
+ 
+ ### Big Blue Button
+ 
+ - theme : visioconference
+ - pros : it's free from advertising and tracking, it's customizable
+ - cons : you must host it
+ - complexity: ++
+ - use-cases: visioconference with your team
+ 
+ Online: https://bigbluebutton.org/ code: https://github.com/bigbluebutton/bigbluebutton
+ 
+ ### Jitsi
+ 
+ - theme : visioconference
+ - pros : it's free from advertising and tracking, it's customizable
+ - cons : you must host it
+ - complexity: +
+ - use-cases: visioconference with your team
+ 
+ Online: https://jitsi.org/ code: https://github.com/jitsi
