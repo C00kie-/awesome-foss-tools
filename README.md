@@ -23,6 +23,17 @@ Each point includes a quick description that makes the choice easy for anyone, t
  
  Online: https://excalidraw.com/ Open source source: https://github.com/excalidraw/excalidraw
  
+ ### Draw.io
+ 
+ - theme: diagrams
+ - pros: run in navigator or desktop
+ - cons: complex to use
+ - complexity: ++
+ - use-cases: draw diagram of your program
+ 
+ Online : https://app.diagrams.net/ Open source code: https://github.com/jgraph/drawio-desktop
+ 
+ 
  ## Photo editing
  
  ### Darktable
