@@ -92,3 +92,15 @@ Each point includes a quick description that makes the choice easy for anyone, t
  - use-cases: visioconference with your team
  
  Online: https://jitsi.org/ code: https://github.com/jitsi
+ 
+ ## RSS
+ 
+ ###Newspipe
+ 
+ - theme : RSS feed aggregator
+ - pros : light, easy to use, with login 
+ - None, maintained project
+ - complexity: +
+ - use-cases: collect and read online subscribed rss feeds
+ 
+ Online: https://www.newspipe.org code: https://github.com/cedricbonhomme/newspipe 
