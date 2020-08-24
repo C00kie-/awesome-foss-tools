@@ -107,10 +107,12 @@ Each point includes a quick description that makes the choice easy for anyone, t
 
 ## Geolocation
 
-### Umap 
+### uMap 
 
 - theme : Map creator
 - pros : easy to use
-- cons : can't manually color countries
+- cons : online instance
 - complexity : ++
 - use-cases :  Umap allows you to create personalized maps, it uses OpenStreetMap
+
+Online : https://umap.openstreetmap.fr/fr/ code: https://github.com/umap-project/umap
