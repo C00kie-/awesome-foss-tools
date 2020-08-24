@@ -104,3 +104,13 @@ Each point includes a quick description that makes the choice easy for anyone, t
  - use-cases: collect and read online subscribed rss feeds
  
  Online: https://www.newspipe.org code: https://github.com/cedricbonhomme/newspipe 
+
+## Geolocation
+
+###Umap 
+
+- theme : Map creator
+- pros : easy to use
+- cons : can't manually color countries
+- complexity : ++
+- use-cases :  Umap allows you to create personalized maps, it uses OpenStreetMap
