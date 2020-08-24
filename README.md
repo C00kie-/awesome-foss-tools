@@ -95,7 +95,7 @@ Each point includes a quick description that makes the choice easy for anyone, t
  
  ## RSS
  
- ###Newspipe
+ ### Newspipe
  
  - theme : RSS feed aggregator
  - pros : light, easy to use, with login 
@@ -107,7 +107,7 @@ Each point includes a quick description that makes the choice easy for anyone, t
 
 ## Geolocation
 
-###Umap 
+### Umap 
 
 - theme : Map creator
 - pros : easy to use
