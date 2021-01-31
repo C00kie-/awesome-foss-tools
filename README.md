@@ -20,52 +20,6 @@ Each point includes a quick description that makes the choice easy for anyone, t
 -----------------------
 
 # List 
-## Drawing
-
-### excalidraw
-
-- theme: graphical
-- pros: easy to use, nice results (sketch-like)
-- cons: online
-- complexity: +
-- use-cases: simple diagram for your presentation
-
-Online: https://excalidraw.com/ Open source source: https://github.com/excalidraw/excalidraw
-
-### Draw.io
-
-- theme: diagrams
-- pros: run in navigator or desktop
-- cons: complex to use
-- complexity: ++
-- use-cases: draw diagram of your program
-
-Online : https://app.diagrams.net/ Open source code: https://github.com/jgraph/drawio-desktop
-
-
-## Photo editing
-
-### Darktable
-
-- theme: graphical
-- pros: efficient, work with camera raw files, a lot of postprocessing filters
-- cons: a bit complex to grasp
-- complexity: ++
-- use-cases: Post-processing of photos
-
-Open source source: https://www.darktable.org/
-
-## Video editing
-
-### Shotcut
-
-- theme: graphical
-- pros: simple, easy to use for cutting and apply simple filter on the videos, adding audio tracks
-- cons: lack some more advanced features
-- complexity: +
-- use-cases: Cutting video, improve brightness or adding an audio track
-
-Open source source: https://shotcut.org/
 
 
 ## Mail encryption
@@ -137,6 +91,53 @@ Online : https://umap.openstreetmap.fr/fr/ code: https://github.com/umap-project
 - use-cases : Two- and three-way visual comparison of files and directories
 
 Online : https://meldmerge.org/ code: https://gitlab.gnome.org/GNOME/meld.git
+
+## Drawing
+
+### excalidraw
+
+- theme: graphical
+- pros: easy to use, nice results (sketch-like)
+- cons: online
+- complexity: +
+- use-cases: simple diagram for your presentation
+
+Online: https://excalidraw.com/ Open source source: https://github.com/excalidraw/excalidraw
+
+### Draw.io
+
+- theme: diagrams
+- pros: run in navigator or desktop
+- cons: complex to use
+- complexity: ++
+- use-cases: draw diagram of your program
+
+Online : https://app.diagrams.net/ Open source code: https://github.com/jgraph/drawio-desktop
+
+
+## Photo editing
+
+### Darktable
+
+- theme: graphical
+- pros: efficient, work with camera raw files, a lot of postprocessing filters
+- cons: a bit complex to grasp
+- complexity: ++
+- use-cases: Post-processing of photos
+
+Open source source: https://www.darktable.org/
+
+## Video editing
+
+### Shotcut
+
+- theme: graphical
+- pros: simple, easy to use for cutting and apply simple filter on the videos, adding audio tracks
+- cons: lack some more advanced features
+- complexity: +
+- use-cases: Cutting video, improve brightness or adding an audio track
+
+Open source source: https://shotcut.org/
 
 # LICENSE 
 
