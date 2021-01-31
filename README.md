@@ -1,4 +1,4 @@
-# Day-to-day-FOSS-tools
+# Awesome FOSS tools
 
 Curated list of Free and Open Source Softwares to use everyday.
 
