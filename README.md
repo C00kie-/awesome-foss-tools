@@ -1,7 +1,7 @@
 # Awesome FOSS tools
 [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-Curated list of Free and Open Source Softwares to use everyday.
+## Curated list of Free and Open Source **Tools** to use everyday.
 
 Each point includes a quick description that makes the choice easy for anyone, to pick up the tool he needs: 
   - theme (one key word: text edit, or mindmap)
