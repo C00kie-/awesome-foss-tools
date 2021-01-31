@@ -12,6 +12,11 @@ Each point includes a quick description that makes the choice easy for anyone, t
   
  :straight_ruler: **One rule to add a tool : you must use it ;)**
  
+ This list is about **tooling** and is mostly updated by security professionals (but not only). 
+ 
+ If you feel to read the **Mother of Awesome** list; visit: [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome) they did an **AWESOME** work
+ 
+ 
 -----------------------
 ## Drawing
 
